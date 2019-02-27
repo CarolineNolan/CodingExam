@@ -1,0 +1,46 @@
+[{
+"PropertyId": 4292232,
+"GroupLogoUrl": "https://photos-a.propertyimages.ie/groups/9/0/4/6409/logo.jpg",
+"BedsString": "2 beds",
+"Price": 395000,
+"SizeStringMeters": 52.95,
+"DisplayAddress":"Apt.16 The Northumberlands, Off Lower Mount Street, Dublin 2",
+"PropertyType": "Apartment",
+"BerRating": "D2",
+"MainPhoto": "https://photos-a.propertyimages.ie/media/2/3/2/4292232/38e98b8e-645f-4adf-8e57-f927e5769840_l.jpg",
+"Photos":
+["https://photos-a.propertyimages.ie/media/2/3/2/4292232/38e98b8e-645f-4adf-8e57-f927e5769840_l.jpg",
+"https://photos-a.propertyimages.ie/media/2/3/2/4292232/e0c4c2c8-6a61-4fda-b5a8-59edc32060b6_l.jpg",
+"https://photos-a.propertyimages.ie/media/2/3/2/4292232/b5ce3372-d71c-4897-91dc-7c5b4ce21c17_l.jpg"]
+},
+{
+"PropertyId": 4229499,
+"GroupLogoUrl":"https://photos-a.propertyimages.ie/groups/9/2/6/283629/logo.jpg",
+"BedsString": "5 beds",
+"Price": 420000,
+"SizeStringMeters": 98,
+"DisplayAddress": "Alleen,Donohill,Tipperary",
+"PropertyType":"Detached House",
+"BathString": "4 baths",
+"BerRating": "B2",
+"MainPhoto":"https://photos-a.propertyimages.ie/media/9/9/4/4229499/aae25e08-31b0-465b-ba35-498d78f6b5c9_l.jpg",
+"Photos":
+["https://photos-a.propertyimages.ie/media/9/9/4/4229499/aae25e08-31b0-465b-ba35-498d78f6b5c9_l.jpg",
+"https://photos-a.propertyimages.ie/media/9/9/4/4229499/7f983103-2529-425a-905b-617b23bfa0f7_l.jpg",
+"https://photos-a.propertyimages.ie/media/9/9/4/4229499/4470fb1c-c301-4b1c-8bfa-e1c85a5d8fbc_l.jpg"]
+},
+{
+"PropertyId": 4301249,
+"GroupLogoUrl":"https://photos-a.propertyimages.ie/groups/3/1/4/256413/logo.jpg",
+"BedsString":"2beds",
+"Price":99000,
+"DisplayAddress":"20GrattonStreet,Gorey,Wexford",
+"PropertyType":"Terraced House",
+"BathString": "1 bath",
+"BerRating": "G",
+"MainPhoto":"https://photos-a.propertyimages.ie/media/6/4/2/4301246/90ef0a16-59e7-410c-b688-f45361fc00df_l.jpg",
+"Photos":
+["https://photos-a.propertyimages.ie/media/2/3/2/4292232/38e98b8e-645f-4adf-8e57-f927e5769840_l.jpg",
+"https://photos-a.propertyimages.ie/media/2/3/2/4292232/e0c4c2c8-6a61-4fda-b5a8-59edc32060b6_l.jpg",
+"https://photos-a.propertyimages.ie/media/2/3/2/4292232/b5ce3372-d71c-4897-91dc-7c5b4ce21c17_l.jpg"]
+}]
